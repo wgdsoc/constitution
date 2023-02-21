@@ -13,6 +13,7 @@ The name of the society shall be Warwick Students’ Union Game Design Society
 2.2.5 - To provide a social space for people to discuss game development, both online and in person;
 2.2.6 – To expose members to new paradigms of game development, such as Virtual Reality game development, which they may not otherwise have the chance to pursue;
 2.2.7 – To expose Society members to industry professionals and provide career opportunities equally to all members.
+2.2.8 - To host regular teaching sessions that teach people how to make games.
 
 2.3 - The Society, its Executives, its funds and all its activities shall be subject to the provisions of the By-Laws, Regulations and Policy of the University of Warwick Students’ Union.
 
@@ -99,6 +100,13 @@ The additional officers shall be:
 4.4.5.a The Careers Officer should work alongside the careers contacts on campus to organise an event promoting careers in the Games Industry once a year;
 4.4.5.b The Careers Officer should liaise with contacts in the Games Industry to keep up to date with careers being offered by those contacts;
 4.4.5.c The Careers Officer should work alongside the Media Officer to ensure members are informed about the roles that are available in the Games Industry.
+
+4.4.6 Teaching Coordinator
+4.4.6.a The Teaching Coordinator is responsible for planning the topics to be covered in the regular teaching sessions.
+4.4.6.b The Teaching Coordinator should work alongside the Secretary and Media Officer to communicate the plan for the teaching sessions.
+4.4.6.c The Teaching Coordinator should conduct the majority of the teaching sessions.
+4.4.6.d In the event that the Teaching Coordinator is unable to lead a teaching session, they are responsible for distributing all relevant resources to allow another society member to lead the session.
+
 
 4.5 – Committee Roles
 4.5.1 – Committee Roles are intended to support the Executive Committee (Core Officers plus Additional Officers).
