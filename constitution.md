@@ -8,7 +8,7 @@ The name of the society shall be Warwick Students’ Union Game Design Society
 2.2 - The society aims and objectives shall be:
 2.2.1 - To provide an environment for people to develop video games, card games, board games, escape rooms, equipment-less games and other types of game;
 2.2.2 - To showcase games made by members for the purposes of feedback;
-2.2.3 - To participate in and host Game Jam events, including international events such as Global Game Jam and Ludum Dare;
+2.2.3 - To participate in and host Game Jam events;
 2.2.4 - To invite guest speakers, both from within the society and from the games industry, to provide informative talks on various aspects of game design and the game industry;
 2.2.5 - To provide a social space for people to discuss game development, both online and in person;
 2.2.6 – To expose members to new paradigms of game development, such as Virtual Reality game development, which they may not otherwise have the chance to pursue;
@@ -88,9 +88,8 @@ The additional officers shall be:
 4.4.2.c – The Secretary must ensure all Committee meeting minutes are available to all Society members.
 
 4.4.3 – Media Officer
-4.4.3.a – The Media Officer shall ensure the Facebook, Twitter, Discord and other social media used by the Society are kept up-to-date with event information;
-4.4.3.b – The Media Officer is responsible for the Society website being up-to-date and functional;
-4.4.3.c – The Media Officer shall be responsible for organising publicity events for the Society, including distribution of electronic and physical publicity material.
+4.4.3.a – The Media Officer shall ensure the Instagram, Discord and other social media used by the Society are kept up-to-date with event information;
+4.4.3.b – The Media Officer shall be responsible for organising publicity events for the Society, including distribution of electronic and physical publicity material.
 
 4.4.4 Events Officer
 4.4.4.a The Events Officer should organise special one-off events outside of the normal event schedule, including transport to and from such events where appropriate;
@@ -150,7 +149,7 @@ The Committee Roles to be assigned shall be:
 
 ## 5  Meetings
 
-5.1 - The Executive must meet approximately once per week to ensure the Society is operated to a high standard.
+5.1 - The Executive must meet regularly to ensure the Society is operated to a high standard.
 
 5.2 - The Society Executive shall call at least one General Meeting per year for the purposes of discussing plans and activities for the coming year.  This must be held by Week 10, Term 2.  This GM may also be used to hold Society Officer elections.
 
