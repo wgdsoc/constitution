@@ -103,7 +103,7 @@ The additional officers shall be:
 4.4.6 Teaching Coordinator
 4.4.6.a The Teaching Coordinator is responsible for curating an interesting selection of topics to be covered in the regular teaching sessions.
 4.4.6.b The Teaching Coordinator should work alongside the Secretary and Media Officer to communicate the plan for the teaching sessions.
-4.4.6.c Every week, the Teaching Coordinator is responsible for either leading the session or supporting another member of the society to lead it.
+4.4.6.c For each scheduled teaching session, the Teaching Coordinator is responsible for either leading the session or supporting another member of the society to lead it.
 
 4.5 – Committee Roles
 4.5.1 – Committee Roles are intended to support the Executive Committee (Core Officers plus Additional Officers).
