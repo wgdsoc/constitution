@@ -101,11 +101,13 @@ The additional officers shall be:
 4.4.5.c The Careers Officer should work alongside the Media Officer to ensure members are informed about the roles that are available in the Games Industry.
 
 4.4.6 Teaching Coordinator
-4.4.6.a The Teaching Coordinator is responsible for planning the topics to be covered in the regular teaching sessions.
+4.4.6.a The Teaching Coordinator is responsible for curating a varied and relevant selection of topics to be covered in the regular teaching sessions.
 4.4.6.b The Teaching Coordinator should work alongside the Secretary and Media Officer to communicate the plan for the teaching sessions.
-4.4.6.c The Teaching Coordinator should conduct the majority of the teaching sessions.
-4.4.6.d In the event that the Teaching Coordinator is unable to lead a teaching session, they are responsible for distributing all relevant resources to allow another society member to lead the session.
-
+4.4.6.c For each scheduled teaching session, the Teaching Coordinator is responsible for either leading the session or supporting another member of the society to lead it. If desired, this support should include:
+	(1) Reviewing prepared material such as slides in advance and giving helpful feedback.
+	(2) Planning the session and distributing resources such as slides.
+	(3) Coaching or preparing the session lead.
+	(4) Providing feedback at the end of the session to allow them to improve for future sessions.
 
 4.5 – Committee Roles
 4.5.1 – Committee Roles are intended to support the Executive Committee (Core Officers plus Additional Officers).
